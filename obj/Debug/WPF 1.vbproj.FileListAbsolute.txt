@@ -1,0 +1,32 @@
+C:\Users\marst\source\repos\WPF 1\bin\Debug\WPF 1.exe.config
+C:\Users\marst\source\repos\WPF 1\bin\Debug\WPF 1.exe
+C:\Users\marst\source\repos\WPF 1\bin\Debug\WPF 1.pdb
+C:\Users\marst\source\repos\WPF 1\bin\Debug\WPF 1.xml
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF 1.vbprojAssemblyReference.cache
+C:\Users\marst\source\repos\WPF 1\obj\Debug\MainWindow.g.vb
+C:\Users\marst\source\repos\WPF 1\obj\Debug\Application.g.vb
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF 1_MarkupCompile.cache
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF 1_MarkupCompile.lref
+C:\Users\marst\source\repos\WPF 1\obj\Debug\MainWindow.baml
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF 1.g.resources
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF_1.Resources.resources
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF 1.vbproj.GenerateResource.cache
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF 1.exe
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF 1.xml
+C:\Users\marst\source\repos\WPF 1\obj\Debug\WPF 1.pdb
+C:\Users\tamal\Desktop\repos\WPF 1\bin\Debug\WPF 1.exe.config
+C:\Users\tamal\Desktop\repos\WPF 1\bin\Debug\WPF 1.exe
+C:\Users\tamal\Desktop\repos\WPF 1\bin\Debug\WPF 1.pdb
+C:\Users\tamal\Desktop\repos\WPF 1\bin\Debug\WPF 1.xml
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF 1.vbprojAssemblyReference.cache
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\MainWindow.g.vb
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\Application.g.vb
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF 1_MarkupCompile.cache
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF 1_MarkupCompile.lref
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\MainWindow.baml
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF 1.g.resources
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF_1.Resources.resources
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF 1.vbproj.GenerateResource.cache
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF 1.exe
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF 1.xml
+C:\Users\tamal\Desktop\repos\WPF 1\obj\Debug\WPF 1.pdb
